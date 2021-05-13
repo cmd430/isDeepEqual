@@ -1,0 +1,26 @@
+{
+  "name": "is-deep-equal",
+  "version": "1.0.0",
+  "description": "Strict or Sloppy deep equality check for any combination of simple values, objects or arrays",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cmd430/isDeepEqual.git"
+  },
+  "keywords": [
+    "deep-equal",
+    "equal",
+    "fast-deep-equal",
+    "deep-is",
+    "is-mutated"
+  ],
+  "author": "cmd430",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cmd430/isDeepEqual/issues"
+  },
+  "homepage": "https://github.com/cmd430/isDeepEqual"
+}
